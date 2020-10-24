@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... JavaEE
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email address:](erden.aidynuly.99@gmail.com)
+- 📫 How to reach me: ... [Email address:](https://mail.google.com/erden.aidynuly.99@gmail.com)
 - 😄 Pronouns: ... He/him mb Mr Erden
 - ⚡ Fun fact: ... I’m student
 
