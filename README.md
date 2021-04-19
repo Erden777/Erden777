@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Youtube
-- 🌱 I’m currently learning Java spring boot , JavaEE python 
+- 🌱 I’m currently learning Java spring boot ,Python(Flask, Django, AioHttp, Graphql, Redis, AsyncIO, Gevent)  
 - 👯 I’m looking to collaborate on. JavaEE
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything
