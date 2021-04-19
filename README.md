@@ -1,8 +1,5 @@
 
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
-[![image](https://d1p8pldpmo4u0v.cloudfront.net/wp-content/uploads/2018/04/Code-image-1400x650.jpg)](https://github.com/Erden777)
+
 ### Here is what i'm working on 👋
 
 Here are some ideas to get you started:
